@@ -8,30 +8,30 @@
 
 ---
 
-## 📱 App Description
+## App Description
 
 The **Microlearning Flashcards App** is a modern learning tool built with Flutter for students who prefer bite-sized study sessions over long, exhausting methods. It supports spaced repetition, deck creation, quiz-based study, and progress tracking—all in a sleek, user-friendly interface.
 
 ---
 
-## ✅ Features
+## Features
 
-- 🔐 **User Authentication**: Sign up, log in, and log out securely using email.
-- 📚 **Deck Management**: Create, edit, delete, and organize flashcards into decks.
-- 🧠 **Study Mode (Quiz)**: Review flashcards through an interactive quiz system.
-- 🌐 **Explore Public Decks**: Browse and search public decks by names.
-- 📊 **Progress Tracking**: Visualize performance stats like quiz accuracy and deck progress.
+- **User Authentication**: Sign up, log in, and log out securely using email.
+- **Deck Management**: Create, edit, delete, and organize flashcards into decks.
+- **Study Mode (Quiz)**: Review flashcards through an interactive quiz system.
+- **Explore Public Decks**: Browse and search public decks by names.
+- **Progress Tracking**: Visualize performance stats like quiz accuracy and deck progress.
 
 ---
 
-## 📈 Technical Requirements
+## Technical Requirements
 - Flutter for frontend UI (cross-platform)
 - Firebase for authentication and real-time database (Firestore)
 - BLoC Architecture for scalable and maintainable state management
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Splash Screen                | Sign In / Sign Up                   |
 |------------------------------|-------------------------------------|
@@ -51,7 +51,7 @@ The **Microlearning Flashcards App** is a modern learning tool built with Flutte
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run any part:
 
