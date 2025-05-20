@@ -23,10 +23,13 @@ The **Microlearning Flashcards App** is a modern learning tool built with Flutte
 - 📊 **Progress Tracking**: Visualize performance stats like quiz accuracy and deck progress.
 
 ---
+
 ## 📈 Technical Requirements
 - Flutter for frontend UI (cross-platform)
 - Firebase for authentication and real-time database (Firestore)
 - BLoC Architecture for scalable and maintainable state management
+
+---
 
 ## 🖼️ Screenshots
 
