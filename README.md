@@ -56,6 +56,6 @@ The **Microlearning Flashcards App** is a modern learning tool built with Flutte
 To run any part:
 
 ```bash
-cd partX_folder
+cd flutter_final_project 
 flutter pub get
 flutter run
